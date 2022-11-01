@@ -5,13 +5,13 @@ public class Example1 {
         int myInt = 9;
         double myDouble = 20.7;
 int y= 25;
-        System.out.println("числото е integer " + myInt);
-        System.out.println("числото е double " + myDouble);
+        System.out.println("the number is integer " + myInt);
+        System.out.println("the number is double " + myDouble);
          if   (y>myInt && y<myDouble)
-        System.out.println("числото е между двете числа");
+        System.out.println("the number is between the two numbers");
          else  {
 
-        System.out.println("числото не е между двете числа");
+        System.out.println("the number is not between the two numbers");
     }
 
 }
