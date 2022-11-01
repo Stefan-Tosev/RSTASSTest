@@ -27,6 +27,6 @@ public class Example3
                 a + ", b = " + b +
                 ", c = " + c);
         int y = a +b -c;
-        System.out.println("the difference between  ((а + b) - c) is  " + y);
+        System.out.println("разликата между сбора  на ((а + b) - c) е  " + y);
     }
 }

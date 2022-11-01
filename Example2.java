@@ -27,11 +27,11 @@ public class Example2 { public static void main(String[] args) {
 
     double v = first + fourth;
     int sum = (int) (first + fourth);
-    System.out.println("The sum as int of second and fourth is  "  + sum);
+    System.out.println("сумата като int на две и четири три след промяната е "  + sum);
 
     double t = second + third;
     int sum2 = (int) (second + third);
-    System.out.println("the sum as int of first and third is  "  + sum2);
+    System.out.println("сумата като int на едно и три след промяната е "  + sum2);
 
 
 }
