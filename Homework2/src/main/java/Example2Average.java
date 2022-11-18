@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Average {
-
+public class Example2Average {
+// creating a new method
     public static double average() {
 // The fist method
         Scanner scan = new Scanner(System.in);
