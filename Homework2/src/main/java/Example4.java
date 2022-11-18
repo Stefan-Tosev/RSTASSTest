@@ -69,6 +69,7 @@ public class Example4 {
 
   public static int[] ArrWhile()
   {
+      // initializing array
      int [] ar = {1,1,2,2,3,3,4,4,5,5};
 
     int index = 0;
@@ -86,7 +87,7 @@ return ar;
         ar[8] = 6; // want to change the ninth position to be 6
         while (index < ar.length) {
             System.out.println(ar[index]);
-            index +=2;
+            index +=2; // want to take every 2 elements of the array
         }
         return ar;
     }

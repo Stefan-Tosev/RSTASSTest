@@ -4,13 +4,12 @@ public class Example6 {
 
     public static void main(String[] args) {
 
-
+        // initializing 2 arrays
         int[] array1 = {1, 2, 3};
         int[] array2 = {1, 2, 3};
 
 
         Object[] arr1 = {array1};
-
         Object[] arr2 = {array2};
 
         // Checking if arrays are equal or not

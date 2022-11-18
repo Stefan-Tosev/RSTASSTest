@@ -21,7 +21,7 @@ public class Example5Var2 {
 
 
         int []a = copyArray();
-        System.out.println("The elements of the copied array are" + Arrays.toString(a));
+        System.out.println("The elements of the copied array are " + Arrays.toString(a));
         
         int []b = copyOf();
         System.out.println("The elements of the copied array are " + Arrays.toString(b));

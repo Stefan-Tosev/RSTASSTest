@@ -72,8 +72,8 @@ public class Example3var2 {
                      double[] numb = {3,4,5.3,6,7};
                      // trying with the enhanced for loop
 
-for ( double i : numb) {
-    System.out.println(i);
+             for ( double i : numb) {
+                    System.out.println(i);
 //        int i;
 //        for (i = 0; i < numb.length; i++) {
 //            System.out.println(numb[i]);
