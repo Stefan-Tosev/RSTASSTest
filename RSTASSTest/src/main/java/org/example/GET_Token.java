@@ -14,6 +14,7 @@ public class GET_Token {
         Response res = httpRequest.get("https://gorest.co.in/public/v2");
         ResponseBody body = res.body();
         //Converting the response body to string
+
         String rbdy = body.asString();
         System.out.println("Data from the GET API- "+rbdy);
     }
